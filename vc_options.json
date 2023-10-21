@@ -1,0 +1,7 @@
+{
+ "master_volume": 50,
+ "show_active_users_only": false,
+ "show_guard_encryption": false,
+ "show_user_volume": false,
+ "turn_radio_on_when_in_cockpit": true
+}
